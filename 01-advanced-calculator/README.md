@@ -34,7 +34,7 @@ How to Run
 
 2. Clone this repository:
    
-   git clone https://github.com/YOUR-USERNAME/python-projects.git
+   git clone https://github.com/sami-naeem-pk/python-learning.git
 
 3. Navigate to the project directory:
    
