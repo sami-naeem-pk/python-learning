@@ -26,32 +26,6 @@ Technologies
 - Git
 - GitHub
 
-Repository Structure
-
-python-projects/
-│
-├── README.md
-│
-├── 01-advanced-calculator/
-│   ├── main.py
-│   └── README.md
-│
-├── 02-guess-the-number/
-│   ├── main.py
-│   └── README.md
-│
-├── 03-quiz-application/
-│   ├── main.py
-│   └── README.md
-│
-├── 04-contact-management/
-│   ├── main.py
-│   └── README.md
-│
-└── 05-expense-tracker/
-    ├── main.py
-    └── README.md
-
 Purpose
 
 The purpose of this repository is to document my programming journey, apply Python concepts through practical projects, and continuously improve my problem-solving abilities.
