@@ -1,5 +1,4 @@
 # python-learning
-My Python learning journey: 10 programming tasks and 10 projects.
 
 Python Projects
 
@@ -25,6 +24,12 @@ Technologies
 - Python
 - Git
 - GitHub
+
+AI Assistance & Code Comments
+AI tools were used to help add explanatory comments to parts of the source code to improve readability and make the code easier to understand.
+
+The projects were developed as part of my personal Python learning journey. AI assistance for code comments is disclosed here for transparency.
+
 
 Purpose
 
